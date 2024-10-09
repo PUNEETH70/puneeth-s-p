@@ -1,6 +1,9 @@
 main()
 (
 add()
+(
+  PRINT(ADDITION);
+)
 sub()
 mul()
 div()
