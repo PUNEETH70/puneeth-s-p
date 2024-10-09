@@ -5,6 +5,9 @@ add()
   PRINT(ADDITION);
 )
 sub()
+(
+ PRINT("SUBSTRACTION");
+)
 mul()
 div()
 )
